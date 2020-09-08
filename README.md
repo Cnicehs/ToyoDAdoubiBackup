@@ -384,6 +384,7 @@ wget -N --no-check-certificate https://raw.githubusercontent.com/heweiye/ToyoDAd
 - 脚本说明: Caddy 一键安装脚本
 - 系统支持: CentOS6+ / Debian7+ / Ubuntu14+
 - 使用方法: https://doub.io/shell-jc1
+- wget -N --no-check-certificate https://raw.githubusercontent.com/Cnicehs/ToyoDAdoubiBackup/master/caddy_install.sh && chmod +x caddy_install.sh && bash caddy_install.sh
 
 #### 下载安装:
 ``` bash
